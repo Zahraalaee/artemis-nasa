@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'core' ;
+    src: url(../font/Core/Fontspring-coresansar15.otf) ,
+    url(../font/Core/Fontspring-coresansar85.otf);
+}
+
+@font-face {
+    font-family:'Roboto';
+    src: url(../font/Roboto/RobotoCondensed-Light.ttf);
+    src: url(../font/Roboto/RobotoCondensed-Regular.ttf) , url(../font/Roboto/RobotoCondensed-Bold.ttf);
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

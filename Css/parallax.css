@@ -1,0 +1,32 @@
+section.parallax{
+    height: 600px;
+    background-image: url(../img/foo-01.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+section.parallax>div{
+    height: 100px;
+    background-color: #002052;
+}
+
+section.parallax>div>h2{
+    font-family: 'core';
+    font-size: 35px;
+    letter-spacing: 3px;
+    line-height: 95px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: 0;
+}
+
+
+
+
+
+
+
+
+
+

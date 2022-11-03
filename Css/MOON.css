@@ -1,0 +1,71 @@
+
+
+section.MOON>div[data-blueback]{
+    background-color: #002052;
+    text-align: justify;
+    color: white;
+ }
+
+section.MOON>div>h2{
+    font-family: 'Roboto';
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    padding-top: 50px;
+    font-size: 40px;
+}
+
+section.MOON>div>p{
+    width: 650px;
+    font-family: 'core' ;
+    margin: 0 auto;
+    line-height: 30px;
+    padding: 20px;
+}
+
+section.MOON>div[data-blackback]{
+background-color: black;
+display: flex;
+justify-content: center;
+text-align: center;
+color: white;
+font-family: 'core';
+font-size: 20px;
+padding: 50px;
+}
+
+section.MOON>div[data-blackback]>span{
+   margin: 30px;
+}
+
+section.MOON>div[data-blackback]>span>h3{
+    width: 271px;
+    position: relative;
+    left: 12px;
+    letter-spacing: 2px;
+}
+
+section.MOON>div[data-blackback]>span>p{
+    font-family: 'Roboto' ;
+    line-height: 30px;
+    text-align: justify;
+    font-size: 14px;
+    width: 300px;
+}
+
+section.MOON>div[data-blackback]>span>i{
+    color: rgba(175, 0, 0, 0.767);
+}
+
+section.MOON>section{
+    background-color: black;
+    text-align: center;
+}
+
+
+
+
+
+
+
+

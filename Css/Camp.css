@@ -1,0 +1,101 @@
+section.Camp{
+    background-color: black;
+}
+
+section.Camp>div{
+    padding: 30px;
+    font-family: 'core';
+    font-size: 20px;
+    background-color: #002052;
+    color: white;
+}
+
+section.Camp>div>h2{
+    font-weight: bold;
+    margin: 0 auto;
+    width: 800px;
+    text-align: center;
+}
+
+section.top-cart{
+    text-align: center;
+display: flex;
+justify-content: center;
+color: white;
+}
+
+section.top-cart>span{
+    margin: 30px;
+}
+
+section.top-cart>span>h3{
+     font-family: 'core';
+     transition: 0.5s;
+     cursor: crosshair;
+}
+
+section.top-cart>span>h3:hover{
+    font-size: 20px;
+}
+
+
+section.top-cart>span>p{
+    font-family: 'Roboto';
+    width: 300px;  
+    font-size: 14;
+    text-align: justify;
+    line-height: 25px;
+    padding: 10px;
+}
+
+section.top-cart>span>i{
+    color: rgb(192, 0, 0);
+    cursor: crosshair;
+}
+
+
+section.top-cart>span>i:hover{
+    color: snow;
+}
+
+/* bottom */
+
+section.bottom-cart{
+text-align: center;
+display: flex;
+justify-content: center;
+color: white;
+}
+
+section.bottom-cart>span{
+    margin: 25px;
+}
+
+section.bottom-cart>span>h3{
+    font-family: 'core';
+    transition: 0.5s;
+    cursor: crosshair;
+}
+section.bottom-cart>span>h3:hover{
+    font-size: 20px;
+}
+
+section.bottom-cart>span>p{
+    font-family: 'Roboto';
+    width: 300px;
+    font-size: 14px;
+    text-align: justify;
+    padding: 10px;
+    line-height: 25px;
+}
+
+section.bottom-cart>span>i{
+    color: rgb(192, 0, 0);
+    cursor: crosshair;
+}
+
+section.bottom-cart>span>i:hover{
+    color: snow;
+}
+
+

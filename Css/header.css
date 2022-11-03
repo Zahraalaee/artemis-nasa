@@ -1,0 +1,96 @@
+
+section.header>ul{
+    width: 100%;
+    background-color: white;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    height: 45px;
+    position: fixed;
+}
+
+section.header>ul>li{
+float: left;
+padding: 10px;
+font-size: 20px;
+font-family: sans-serif;
+margin-left: 15px;
+}
+
+section.header>ul>li:hover{
+    background-color: rgba(0, 0, 0, 0.123);
+}
+
+section.header>ul>li>img{
+    width: 47px;
+    height: 35px;
+}
+
+
+section.header>video{
+    margin: 0 ;
+    padding: 0;
+    height: 854px;
+}
+
+section.header>div{
+    display: flex;
+}
+
+section.header>div>p{
+    color: #202742;
+    margin-left: 130px;
+    font-family: 'Roboto' ;
+    line-height: 40px;
+    width: 60%;
+    transition: 1s;
+}
+
+section.header>div>p:hover{
+    color: rgb(0, 0, 145);
+}
+
+section.header>div>button{
+    font-family: 'Roboto' ;
+    background-color: red;
+    height: 80px;
+    width: 220px;
+    margin: 50px;
+    border: none;
+    border-radius: 5px;
+    line-height: 30px;
+    font-size: 20px;
+    box-shadow: 0px 5px 5px 0px black;
+    transition: 1s;
+}
+
+section.header>div>button>a{
+    text-decoration: none;
+     color: white;
+}
+
+section.header>div>button:hover{
+    background-color: rgba(0, 0, 0, 0.74);
+}
+
+section.header>div>button>a:visited{
+    text-shadow: 5px 5px 4px #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

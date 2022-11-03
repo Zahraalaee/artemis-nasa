@@ -1,0 +1,41 @@
+section.MISSION{
+    background-color: #DFDFDF;
+}
+
+section.MISSION>h2{
+    font-family: 'Roboto';
+    text-align: center;
+    color: #3A3A3A;
+    padding: 40px;
+    margin-top: 0;
+    font-size: 40px;
+}
+
+section.MISSION>div{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+section.MISSION>div>span{
+    padding: 25px;
+}
+
+section.MISSION>div>span>p{
+    width: 274px;
+    font-family: 'Roboto';
+    color: #1d1d1d;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

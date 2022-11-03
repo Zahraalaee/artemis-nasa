@@ -1,0 +1,15 @@
+section.footer{
+    text-align: center;
+    color: white;
+    background-color: black;
+padding-top: 10px;
+padding-bottom: 82px;
+line-height: 35px;
+}
+
+section.footer>p{
+    margin: 0;
+    font-family: 'core';
+    font-weight: bold;
+}
+

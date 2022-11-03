@@ -1,0 +1,35 @@
+section.How{
+    height: 800px;
+    background-image: url(../img/how.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+section.How>h2{
+    font-family: 'Roboto';
+    font-size: 55px;
+    margin-top: 0;
+    color: white;
+    text-align: right;
+    padding: 70px;
+}
+
+section.How>h2>span{
+    background-color: rgba(255, 0, 0, 0.897);
+    padding-left: 15px;
+    margin-right: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
